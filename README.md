@@ -1,4 +1,4 @@
-# ott-platform-performance-
+# OTT-platform-performance-analysis
 
 ## 📌 Project Overview
 
